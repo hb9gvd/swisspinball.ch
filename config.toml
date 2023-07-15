@@ -31,9 +31,9 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  site_logo = "/images/Swisspinball-Logo.png"
+  site_logo = "images/Swisspinball-Logo.png"
   author = ""
-  favicon = "/images/favicon.ico"
+  favicon = "images/favicon.ico"
   text_color = ""
   description = "Swiss Pinball Tournaments At A Glance"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
