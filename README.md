@@ -2,7 +2,7 @@
 ## Edit  
 ### Usage of hugo  
 https://gohugo.io/getting-started/usage/  
-##Syntax of Markdown  
+## Syntax of Markdown  
 https://www.markdownguide.org/basic-syntax  
 ### Get site-data from github repository
 #### Use Git or checkout with SVN using the web URL. 
