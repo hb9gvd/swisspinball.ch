@@ -9,6 +9,6 @@ cascade:
 #  menu: main
 #  copyright: "Swisspinball 2023"
 ---
-Zu den Details per Pinballevents Webseite:  
+Zu den Details:  
 [IFPA European Pinball Championship 2023](https://www.pinballevents.de/ifpa-ch/ifpaepc/)  
 18. und 19. März 2023
