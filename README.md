@@ -7,6 +7,8 @@ https://github.com/theNewDynamic/gohugo-theme-ananke
 ### Syntax of Markdown
 https://www.markdownguide.org/basic-syntax
 ### Get site-data from github repository
+#### git cheat sheet
+https://education.github.com/git-cheat-sheet-education.pdf
 #### Use Git or checkout with SVN using the web URL. 
 https://github.com/hb9gvd/swisspinball.ch/tree/master
 #### Use a password-protected SSH key. 
