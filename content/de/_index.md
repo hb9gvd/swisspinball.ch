@@ -1,5 +1,5 @@
 ---
-#title: "Schweizer Flipper Turniere"
+title: "Schweizer Flipper Turniere"
 theme_version: '2.8.2'
 cascade:
 site_logo: "/images/Swisspinball-Logo.png"
