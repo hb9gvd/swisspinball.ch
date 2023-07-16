@@ -2,7 +2,7 @@ title = "Swisspinball"
 baseURL = "https://swisspinball.ch/"
 languageCode = "en-us"
 theme = "ananke"
-resourceDir = "../resources"
+resourceDir = ""
 copyright = "Swisspinball"
 
 DefaultContentLanguage = "en"

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://swisspinball.ch/de/sitemap.xml</loc>
+    
+      <lastmod>2023-07-12T17:51:00+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://swisspinball.ch/fr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://swisspinball.ch/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
