@@ -1,6 +1,8 @@
 # swisspinball.ch
 ## Usage of hugo
 https://gohugo.io/getting-started/usage/
+##Syntax of Markdown
+https://www.markdownguide.org/basic-syntax
 ## Edit (get from github repository)
 ### Use Git or checkout with SVN using the web URL. 
 https://github.com/hb9gvd/swisspinball.ch/tree/master
@@ -16,5 +18,5 @@ Please wait until github workflow has finished. This may take a minute after cha
 ## Rebuild to publish
 https://tmp.harzi.ch/swisspinball.ch/rebuild.php
 
-# Published Website
+## Published Website
 https://swisspinball.ch/
