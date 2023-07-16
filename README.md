@@ -1,14 +1,15 @@
 # swisspinball.ch
-## Usage of hugo
-https://gohugo.io/getting-started/usage/
-##Syntax of Markdown
-https://www.markdownguide.org/basic-syntax
-## Edit (get from github repository)
-### Use Git or checkout with SVN using the web URL. 
+## Edit  
+### Usage of hugo  
+https://gohugo.io/getting-started/usage/  
+##Syntax of Markdown  
+https://www.markdownguide.org/basic-syntax  
+### Get site-data from github repository
+#### Use Git or checkout with SVN using the web URL. 
 https://github.com/hb9gvd/swisspinball.ch/tree/master
-### Use a password-protected SSH key. 
+#### Use a password-protected SSH key. 
 git@github.com:hb9gvd/swisspinball.ch.git
-### github CLI. 
+#### github CLI. 
 gh repo clone hb9gvd/swisspinball.ch
 
 ## Preview 
