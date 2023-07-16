@@ -1,9 +1,11 @@
 # swisspinball.ch
 ## Edit  
-### Usage of hugo  
-https://gohugo.io/getting-started/usage/  
-## Syntax of Markdown  
-https://www.markdownguide.org/basic-syntax  
+### Usage of Hugo
+https://gohugo.io/getting-started/usage/
+### Ananke theme, website building framework used.
+https://github.com/theNewDynamic/gohugo-theme-ananke
+### Syntax of Markdown
+https://www.markdownguide.org/basic-syntax
 ### Get site-data from github repository
 #### Use Git or checkout with SVN using the web URL. 
 https://github.com/hb9gvd/swisspinball.ch/tree/master
