@@ -13,9 +13,9 @@ git@github.com:hb9gvd/swisspinball.ch.git
 https://tortoisegit.org/docs/tortoisegit/tgit-ssh-howto.html
 ##### ssh user key generation for Windows
 https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation
-### Usage of Hugo
+### Usage of Hugo static site generator
 https://gohugo.io/getting-started/usage/
-### Ananke theme, website building framework used.
+### Ananke theme, website building framework used
 https://github.com/theNewDynamic/gohugo-theme-ananke
 ### Syntax of Markdown
 https://www.markdownguide.org/basic-syntax
