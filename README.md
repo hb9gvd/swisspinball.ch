@@ -19,10 +19,5 @@ https://gohugo.io/getting-started/usage/
 https://github.com/theNewDynamic/gohugo-theme-ananke
 ### Syntax of Markdown
 https://www.markdownguide.org/basic-syntax
-## Preview 
-https://hb9gvd.github.io/swisspinball.ch/
-Please wait until github workflow has finished. This may take a minute after changes are commited und pushed to github)
-## Rebuild to publish
-https://tmp.harzi.ch/swisspinball.ch/rebuild.php
 ## Published Website
 https://swisspinball.ch/
