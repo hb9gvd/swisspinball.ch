@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.de]
-#    title = "Schweizer Flipper Turniere"
+    title = "Schweizer Flipper Turniere"
     weight = 1
     contentDir = "content/de"
   [languages.fr]
