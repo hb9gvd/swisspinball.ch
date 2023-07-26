@@ -1,6 +1,5 @@
 ---
 title: "About"
-#description: "Hier will man lesen können, wie man Meti kontaktiert"
 type: page
 
 menu:
