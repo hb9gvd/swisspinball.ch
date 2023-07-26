@@ -5,7 +5,7 @@ theme = "ananke"
 resourceDir = ""
 copyright = "Swisspinball"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating. Set to a higher number
 googleAnalytics = ""
