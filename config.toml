@@ -13,15 +13,15 @@ enableRobotsTXT = true
 
 [languages]
   [languages.de]
-    title = "Schweizer Flipper Turniere"
+    title = "IFPA Switzerland"
     weight = 1
     contentDir = "content/de"
   [languages.fr]
-    title = "Tournois de flipper suisse"
+    title = "IFPA Switzerland"
     weight = 2
     contentDir = "content/fr"
   [languages.en]
-    title = "Swiss Pinball Tournaments"
+    title = "IFPA Switzerland"
     weight = 3
     contentDir = "content/en"
 
