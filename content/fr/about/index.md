@@ -1,6 +1,5 @@
 ---
-title: "About"
-#description: "Hier will man lesen können, wie man Meti kontaktiert"
+title: "contact"
 type: page
 
 menu:
@@ -8,7 +7,7 @@ menu:
     weight: 1
 ---
 
-_Directeur national pour la Suisse_
+_IFPA Country Director Switzerland_
 
-Meti existe  
-Email: <fake@example.com>
+Michael Trepp 
+Email: <swisspinball@gmail.com>
