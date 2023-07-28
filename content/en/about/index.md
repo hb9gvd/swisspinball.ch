@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Contact"
 type: page
 
 menu:
@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 
-_Switzerland Country Director_
+_IFPA Country Director Switzerland_
 
-Meti exists  
-Email: <fake@example.com>
+Michael Trepp 
+Email: <swisspinball@gmail.com>
