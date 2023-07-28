@@ -9,5 +9,5 @@ menu:
 
 _IFPA Country Director Switzerland_
 
-Michael Trepp 
+Michael Trepp  
 Email: <swisspinball@gmail.com>
