@@ -6,4 +6,4 @@ site_logo: "/images/Swisspinball-Logo.png"
 # type: page
 # menu: main
 ---
-All about competitive Pinball in Switzerland
+All about competitive Pinball in Switzerland and Liechtenstein

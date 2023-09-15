@@ -7,4 +7,4 @@ site_logo: "/images/Swisspinball-Logo.png"
 # type: page
 # menu: main
 ---
-Tous sur les tournois de flipper en Suisse
+Tous sur les tournois de flipper en Suisse et Liechtenstein
